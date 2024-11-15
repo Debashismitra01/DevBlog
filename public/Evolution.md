@@ -21,8 +21,6 @@ Enter the iPhone in 2007, and suddenly, **touchscreens became the hot new thing*
 
 Flip phones started disappearing faster than you could say “app store.”  
 
----
-
 ## The Comeback: Folding Screens Take Center Stage  
 Just when we thought the flip phone was dead and buried, **folding screens entered the chat**.  
 
