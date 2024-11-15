@@ -1,4 +1,3 @@
-import { assets } from "@/app/assets/assets";
 import Image from "next/image";
 import React from "react";
 import "./header.css"
