@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Space+Grotesk:wght@300..700&family=Turret+Road:wght@200;300;400;500;700;800&display=swap');
+.blogitem{
+    border:1px solid#b330e1;
+    width: 30vw;
+    transition:500ms;
+    border-radius: 30px;
+    overflow: hidden;
+    .Image{
+        border-bottom: 1px solid #b330e1;
+    }.text{
+        display: flex;
+        flex-direction: column;
+        padding: 1vh 1vw;
+    
+    .category{
+        display: inline-block;
+        font-size: 14px;
+        background: linear-gradient(45deg, #b330e1, #5c73b9);
+        padding: 1px 10px 2px 10px;
+            margin-left: 1vw;
+            border-radius: 50px;
+            font-family: "Turret Road", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+    }
+    .title{
+        font-family: "Pixelify Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+  font-size: 20px;
+  color: #c2a6cc;
+  padding: 5px 0;
+    }
+    .description{
+        font-family: "Space Grotesk", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    }
+}
+
+    
+}
+.blogitem:hover{
+    box-shadow: -7px 7px 0 #c2a6cc;
+}
+.bloglist{
+    padding: 10px 0px 10px 20px;
+    background-color: #070707;
+    color: white;
+    .list{
+        display:flex;
+        justify-content: center;
+        gap:1vw;
+        padding: 2vh 2vw;
+        .select{
+            background: linear-gradient(45deg, #b330e1, #5c73b9);
+            padding: 1px 10px 2px 10px;
+            border-radius: 50px;
+            font-family: "Turret Road", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+        }
+        .unselect{
+            padding: 1px 10px 2px 10px;
+            font-family: "Turret Road", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+        }
+        .unselect:hover{
+            color:#b330e1;
+        }
+    }
+    .item{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Creates three columns */
+        grid-template-rows: auto; /* Automatically adjusts rows based on content */
+        gap: 1rem;
+    }
+}
+@media (max-width: 767px) {
+    .blogitem{
+        width: 90vw;}
+        .bloglist{
+            .list{
+                display:list-item;
+                list-style: none;
+            }
+    .item{
+        display: grid;
+        grid-template-rows: repeat(3, 1fr); /* Creates three columns */
+        grid-template-columns: auto; /* Automatically adjusts rows based on content */
+        gap: 1rem;
+    }}
+}

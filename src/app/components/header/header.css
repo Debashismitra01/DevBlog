@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    background-color: #070707;
+    color: white;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4vh 10vw 1vh 10vw;
+    .button{
+        border:1px solid#b330e1;
+        display: flex;
+        gap:5px;
+        align-items: center;
+        padding: 4px 10px;
+        box-shadow: -1px 1px 0px #c2a6cc;
+        transition: 300ms;
+        border-radius: 50px;
+    }
+    .button:hover{
+        box-shadow: -5px 5px 0px #c2a6cc;
+    }
+}
