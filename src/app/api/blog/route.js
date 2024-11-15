@@ -27,8 +27,8 @@ export async function GET(request) {
 
 export async function POST(request) {
     const formData = await request.formData();
-    const pass= formData.get('pass');
-    if (pass === process.env.SECRET_PASS){
+    const pass = formData.get('pass');
+    if (pass == process.env.SECRET_PASS){
     const timestamp = Date.now();
 
     const image = formData.get('image');
