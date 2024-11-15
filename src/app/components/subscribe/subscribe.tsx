@@ -20,7 +20,7 @@ const SubscribeForm: React.FC = () => {
       } else {
         setMessage("Something went wrong, please try again. 😢");
       }
-    } catch (error) {
+    } catch () {
       setMessage("Failed to subscribe. Check your internet or try later. 😥");
     } finally {
       setLoading(false);
