@@ -6,6 +6,7 @@
     border-radius: 30px;
     overflow: hidden;
     .Image{
+        width:100%;
         border-bottom: 1px solid #b330e1;
     }.text{
         display: flex;
