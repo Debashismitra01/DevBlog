@@ -18,7 +18,7 @@ const READMEViewer = ({ readmeUrl }) => {
     <div className="readme">
     <ReactMarkdown
       remarkPlugins={[remarkBreaks]}
-    >readme</ReactMarkdown>
+    >{readme}</ReactMarkdown>
     </div>
   );
 };
