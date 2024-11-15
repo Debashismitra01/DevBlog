@@ -3,8 +3,6 @@ Let’s rewind to the early 2000s—a time when flip phones ruled the world, and
 
 Fast forward to today, where we have folding screens that look straight out of a sci-fi movie. How did we get here? Let’s unpack this journey from *flip* to *fold*.  
 
----
-
 ## The Flip Phone Era: The OG Status Symbol  
 In the early 2000s, flip phones were *everything*.  
 
@@ -14,7 +12,6 @@ In the early 2000s, flip phones were *everything*.
 
 Texting on a T9 keyboard? It was a skill. You weren’t texting; you were *decoding*. And let’s not forget those monophonic ringtones that somehow slapped harder than today’s MP3 ones.  
 
----
 
 ## The Rise of Smartphones: The End of the Flip?  
 Enter the iPhone in 2007, and suddenly, **touchscreens became the hot new thing**.  
@@ -36,7 +33,6 @@ Just when we thought the flip phone was dead and buried, **folding screens enter
 
 Who needs a tablet when your phone unfolds into one?  
 
----
 
 ## Why We Love Folding Screens (and Still Miss Flip Phones)  
 Folding screens scream **innovation**.  
@@ -49,7 +45,6 @@ Yet, there’s a part of us that still misses the simplicity of the flip phone e
 - No social media FOMO.  
 - Just calls, texts, and *Snake*.  
 
----
 
 ## The Future: What’s Next?  
 With folding screens already redefining our idea of a smartphone, what could be next?  
@@ -60,7 +55,6 @@ With folding screens already redefining our idea of a smartphone, what could be 
 
 One thing’s for sure: tech’s evolution is far from over, and we’re all here for the ride.  
 
----
 
 ## Conclusion  
 Whether you’re team flip, team fold, or team *please make phones less expensive*, let’s take a moment to appreciate how far we’ve come.  
